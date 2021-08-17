@@ -7,8 +7,7 @@
  * An implementation of an AVL Tree with
  * distinct integer keys and info
  *
- * Yotam Hazan 205566870, username: yotamhazan
- * Kfir Grinberg  313434037, username: kfirgrinberg
+ * Yotam Hazan
  *
  */
 
