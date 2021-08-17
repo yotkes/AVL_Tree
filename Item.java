@@ -7,8 +7,7 @@
  * Item object which based on a key (integer type) and 
  * info (String type)
  *
- * Yotam Hazan 205566870, username: yotamhazan
- * Kfir Grinberg  313434037, username: kfirgrinberg
+ * Yotam Hazan
  *
  */
 
